@@ -1,2 +1,2 @@
-# JustForFun
-This repository is a collection of notebooks I have found useful in a number of projects and other notebooks where I am trying out new ideas.
+# Low Discrepancy Sampling for Non-Convex Optimization Initialization
+Improve optimization performance for non-convex objective functions using low discrepancy initialization sampling in Python.
